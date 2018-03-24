@@ -21,4 +21,6 @@ above, beside, overlay
 (rotate 10 CAT)
 
 ;(define RCAT (rotate -10 CAT))
-;(define LCAT (rotate 10 CAT)) 
+;(define LCAT (rotate 10 CAT))
+
+fd
